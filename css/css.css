@@ -1,0 +1,35 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.box {
+    height: 100px;
+    padding: 5px;
+    background-color: gray;
+    float: left;
+    box-sizing: border-box;
+    width: calc(25% - 10px);
+    margin: 5px;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+}
+
+.fixed{
+   width: 100%;
+   position: fixed;
+   background-color: black;
+   height: 100px;
+   top: 0px;
+   color: #fff; 
+}
+ul{
+    list-style-type: none;
+}
+
+li{
+    float: left;
+    padding-left: 10%;
+
+}

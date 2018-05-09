@@ -1,0 +1,79 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.espana {
+    height: 100px;
+    padding: 5px;
+    float: left;
+    box-sizing: border-box;
+    width: calc(50% - 10px);
+    margin: 5px;
+}
+
+.espana-rojo {
+    background-color: #FF0000;
+    height: 58px;
+}
+
+.espana-amarillo {
+    background-color: #FEFE00;
+    height: 75px;
+}
+
+.dinamarca {
+    height: 100px;
+    padding: 5px;
+    float: left;
+    box-sizing: border-box;
+    width: calc(50% - 10px);
+    margin: 5px;
+}
+
+
+.dinamarca-red1 {
+    background-color: #FF0000;
+    height: 85px;
+    width: calc(30% - 10px);
+    margin-right: 20px;
+    float: left;
+}
+
+.dinamarca-red2 {
+    background-color: #FF0000;
+    height: 85px;
+    width: calc(70% - 10px);
+    float: left;
+}
+
+.dinamarca-red3 {
+    background-color: #FF0000;
+    height: 85px;
+    width: calc(30% - 10px);
+    float: left;
+    box-sizing: border-box;
+    margin: 20px 0px 0px 0px;
+}
+.dinamarca-red4 {
+    background-color: #FF0000;
+    height: 85px;
+    width: calc(70% - 10px);
+    float: left;
+    box-sizing: border-box;
+    margin: 20px 0px 0px 20px;
+}
+
+.emiratos {
+    height: 100px;
+    padding: 5px;
+    float: left;
+    box-sizing: border-box;
+    width: calc(50% - 10px);
+    margin: 5px;
+}
+
+.emiratosred{
+    background-color: #FF0000;
+    width: 30px;
+    height: 100px;
+    
+}
